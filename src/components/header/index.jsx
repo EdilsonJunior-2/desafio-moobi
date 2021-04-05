@@ -3,6 +3,7 @@ import { NavBar } from "./styles";
 import InstagramIcon from '@material-ui/icons/Instagram';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import SearchIcon from '@material-ui/icons/Search';
+import LogoMiniWhite from "../../assets/logo-mini-white.png";
 
 // import { Container } from './styles';
 
@@ -39,7 +40,7 @@ function Header() {
                     <InstagramIcon className="icon" />
                     <SearchIcon className="icon" />
                     <div id="associe-se">
-                        <InstagramIcon />
+                        <img src={LogoMiniWhite} alt="logo-mini-branca" />
                         Associe-se
                     </div>
                 </div>

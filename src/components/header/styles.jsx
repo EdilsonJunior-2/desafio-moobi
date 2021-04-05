@@ -64,9 +64,16 @@ export const NavBar = styled.div`
             height: 100%;
             border-left: 0.5px solid #333;
             border-right: 0.5px solid #333;
+            transition: 200ms;
+            cursor: pointer;
 
-            svg{
+            img{
+                width: 24px;
                 margin-right: 10px;
+            }
+
+            &:hover{
+                background-color: #129238;
             }
         }
     }

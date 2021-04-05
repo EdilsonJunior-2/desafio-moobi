@@ -77,7 +77,7 @@ function Secao2() {
           breakPoints={{ width: 1, itemsToShow: 1 }}
           showArrows={false}
           enableAutoPlay
-          autoPlaySpeed={50000}
+          autoPlaySpeed={5000}
 
         >
           {destaques.map(destaque => (
