@@ -70,4 +70,9 @@ export const NavBar = styled.div`
             }
         }
     }
+
+    @media (max-width: 1300px){
+        width: 85%;
+        padding: 0 7.5%;
+    }
 `;

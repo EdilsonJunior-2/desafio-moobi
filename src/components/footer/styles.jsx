@@ -53,6 +53,11 @@ export const Linha1 = styled.div`
             }
         }
     }
+
+    @media (max-width: 1300px){
+        width: 85%;
+        padding: 20px 7.5%;
+    }
 `;
 
 export const Linha2 = styled.div`
@@ -83,6 +88,11 @@ export const Linha2 = styled.div`
             margin-left: 20px;
         }
     }
+
+    @media (max-width: 1300px){
+        width: 85%;
+        padding: 20px 7.5%;
+    }
 `;
 
 export const Linha3 = styled.div`
@@ -96,5 +106,10 @@ export const Linha3 = styled.div`
 
     img{
         width: 100px;
+    }
+
+    @media (max-width: 1300px){
+        width: 85%;
+        padding: 20px 7.5%;
     }
 `;

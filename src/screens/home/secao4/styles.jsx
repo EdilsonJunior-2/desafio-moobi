@@ -37,4 +37,9 @@ export const Section = styled.section`
             background-color: #d1d1d1;
         }
     }
+
+    @media (max-width: 1300px){
+        width: 85%;
+        padding: 0 7.5%;
+    }
 `;

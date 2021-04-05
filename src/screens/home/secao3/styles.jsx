@@ -56,6 +56,10 @@ export const Section = styled.section`
             }
         }
     }
+    @media (max-width: 1300px){
+        width: 85%;
+        padding: 0 7.5%;
+    }
 `;
 
 export const ImagemNoticia = styled.div`

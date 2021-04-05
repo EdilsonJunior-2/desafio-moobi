@@ -45,4 +45,9 @@ export const Section = styled.section`
             }
         }
     }
+    
+    @media (max-width: 1300px){
+        width: 85%;
+        padding: 10px 7.5%;
+    }
 `;
