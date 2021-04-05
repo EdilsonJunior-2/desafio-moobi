@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "Montserrat-Black";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-Black.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-BlackItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-BlackItalic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-BoldItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-ExtraBold";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-ExtraBoldItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-ExtraBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-ExtraLight";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-ExtraLightItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-ExtraLightItalic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Italic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-Italic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Light";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-LightItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-MediumItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-SemiBold";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-SemiBoldItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-SemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-Thin";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-Thin.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat-ThinItalic";
+  src: local("Montserrat-Black"), url("./montserrat/Montserrat-ThinItalic.ttf");
+}
