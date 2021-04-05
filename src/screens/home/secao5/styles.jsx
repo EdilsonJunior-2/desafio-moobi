@@ -13,6 +13,7 @@ export const Section = styled.section`
             font-family: Montserrat-Regular;
             font-size: 24px;
             margin-bottom: 15px;
+            color: #145c2a;
         }
         img{
             width: 100%;
